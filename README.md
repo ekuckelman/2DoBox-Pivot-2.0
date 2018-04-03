@@ -12,7 +12,7 @@ This project was our first chance to take another team's code, refactor, and rep
     * No anonymous functions
     * Get rid of all global variables
     * Functions cannot be longer than 8 lines
- * Project Specifications
+## Project Specifications
     * Adding a new to-do:
       * A new to-do should  append/prepend with the user's title and body
       * The text fields should be cleared to accept a new to-do
