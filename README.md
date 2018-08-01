@@ -40,7 +40,7 @@ This project was our first chance to take another team's code, refactor, and rep
    
    * Importance
       * The user should be able to change the level of importance of their to-do's
-        * Levels: Critical, high, normal(default), low, and none
+       * Levels: Critical, high, normal(default), low, and none
       * Changes to importance should be reflected in localStorage to ensure they will persist on reload
     
    * Recent to-do's
@@ -49,7 +49,6 @@ This project was our first chance to take another team's code, refactor, and rep
    
    * Filtering by importance
       * The user should be able to filter their to-do's based on the level of importance
-        * The application needs to have 5 buttons -- one for each of the levels of importance
+       * The application needs to have 5 buttons -- one for each of the levels of importance
         
-        
-## Reflection on Project
+
